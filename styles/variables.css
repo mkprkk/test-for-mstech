@@ -1,0 +1,19 @@
+/* Переменные шрифтов */
+:root {
+    --font-primary: "Prata", sans-serif;
+  
+  /* Переменные цветов */
+    --background-dark: #282829;
+    --header-background: #222222;
+    --button-background: #ffffff;
+    --button-text: #222222;
+    --form-background: #ffffff;
+    --form-title: #38535d;
+    --form-checkbox: #55565a;
+    --form-submit-background: #282829;
+    --form-text: #000000;
+    --border-color: #55565a;
+    --footer-border: #d5c9be;
+    --socials-stroke: #d5c9be;
+    --text-color: #e0e0e0;
+  }
